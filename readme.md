@@ -43,7 +43,12 @@ Intermolecular Forces Explorer is an interactive website designed to help users 
 1. Understand types of intermolecular forces
 2. Compare their strengths
 3. Learn how molecular structure affects forces
-
+   
+# Future Enhancements
+1. Add more molecules for deeper analysis
+2. Include 3D molecular models for better visualization
+3. Add animations to show how intermolecular forces act
+4. Introduce a quiz section for self-assessment
 
 # Conclusion
 This project simplifies complex chemistry concepts using an interactive approach, making it easier for students to learn and visualize intermolecular forces.
