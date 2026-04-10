@@ -9,21 +9,17 @@
 Intermolecular Forces Explorer is an interactive website designed to help users understand different types of intermolecular forces in a simple and visual way. It combines basic chemistry concepts with web development to make learning engaging.
 
 # Features
-## Explanation of major intermolecular forces:
+1. Explanation of major intermolecular forces:
 - Hydrogen Bonding
 - Dipole–Dipole Forces
 - London Dispersion Forces
-- 
-## Dropdown menu to select molecules
-
-## Dynamic display of:
+2. Dropdown menu to select molecules
+3. Dynamic display of:
 - Type of force
 - Strength
 - Explanation
-  
-## Strength comparison (weak, moderate, strong)
-
-## Real-life examples for better understanding
+4. Strength comparison (weak, moderate, strong)
+5. Real-life examples for better understanding
 
 # Molecules Covered
 - H₂O (Water)
