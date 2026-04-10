@@ -38,10 +38,10 @@ Intermolecular Forces Explorer is an interactive website designed to help users 
 - JavaScript
   
 # How to Run
-1.Download or copy the project files
-2.Open the .html file in any web browser
-3.Select a molecule from the dropdown menu
-4.View the results instantly
+1. Download or copy the project files
+2. Open the .html file in any web browser
+3. Select a molecule from the dropdown menu
+4. View the results instantly
 
 # Learning Outcome
 Understand types of intermolecular forces
