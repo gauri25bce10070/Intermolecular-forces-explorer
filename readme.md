@@ -22,16 +22,16 @@ Intermolecular Forces Explorer is an interactive website designed to help users 
 5. Real-life examples for better understanding
 
 # Molecules Covered
-- H₂O (Water)
-- NH₃ (Ammonia)
-- CO₂ (Carbon dioxide)
-- CH₄ (Methane)
-- HCl (Hydrogen chloride)
+1. H₂O (Water)
+2. NH₃ (Ammonia)
+3. CO₂ (Carbon dioxide)
+4. CH₄ (Methane)
+5. HCl (Hydrogen chloride)
   
 # Technologies Used
-- HTML
-- CSS
-- JavaScript
+1. HTML
+2. CSS
+3. JavaScript
   
 # How to Run
 1. Download or copy the project files
