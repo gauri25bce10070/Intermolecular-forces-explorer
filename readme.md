@@ -40,9 +40,9 @@ Intermolecular Forces Explorer is an interactive website designed to help users 
 4. View the results instantly
 
 # Learning Outcome
-Understand types of intermolecular forces
-Compare their strengths
-Learn how molecular structure affects forces
+1. Understand types of intermolecular forces
+2. Compare their strengths
+3. Learn how molecular structure affects forces
 
 
 # Conclusion
