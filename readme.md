@@ -13,6 +13,7 @@ Intermolecular Forces Explorer is an interactive website designed to help users 
 - Hydrogen Bonding
 - Dipole–Dipole Forces
 - London Dispersion Forces
+- Ion-Dipole Forces
 2. Dropdown menu to select molecules
 3. Dynamic display of:
 - Type of force
@@ -34,15 +35,15 @@ Intermolecular Forces Explorer is an interactive website designed to help users 
 3. JavaScript
   
 # How to Run
-1. Download or copy the project files
-2. Open the .html file in any web browser
-3. Select a molecule from the dropdown menu
-4. View the results instantly
+1. Download or copy the project files.
+2. Open the .html file in any web browser.
+3. Select a molecule from the dropdown menu.
+4. View the results instantly.
 
-# Learning Outcome
-1. Understand types of intermolecular forces
-2. Compare their strengths
-3. Learn how molecular structure affects forces
+# Learning Outcomes
+1. Understanding types of intermolecular forces
+2. Comparing their strengths
+3. Learning how molecular structure affects forces
    
 # Future Enhancements
 1. Add more molecules for deeper analysis
