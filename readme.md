@@ -53,3 +53,15 @@ Intermolecular Forces Explorer is an interactive website designed to help users 
 
 # Conclusion
 This project simplifies complex chemistry concepts using an interactive approach, making it easier for students to learn and visualize intermolecular forces.
+
+<img width="1780" height="692" alt="image" src="https://github.com/user-attachments/assets/60cf22b9-7bef-43e4-b988-e4cad054079d" />
+
+<img width="1588" height="680" alt="image" src="https://github.com/user-attachments/assets/ea76e9bb-0078-43d7-ad22-29409235ae7d" />
+
+<img width="1558" height="672" alt="image" src="https://github.com/user-attachments/assets/1192a10d-2d85-4458-a52f-9d7cc4ac5b0a" />
+
+
+
+
+
+
